@@ -18,11 +18,11 @@
 
 ### 👨‍💻 À propos de moi
 
-Je suis un **Ingénieur Full Stack** passionné par l'intégration de l'**Intelligence Artificielle** dans des applications web robustes. Mon objectif est de créer des systèmes intelligents, sécurisés et évolutifs.
+Je suis un **Ingénieur Full Stack** passionné par l'intégration de l'**Intelligence Artificielle** dans des applications web robustes. Mon objectif est d'exploiter ma passion pour la **technologie** en participant à la **conception** et au **développement d'applications** de haute qualité, tout en continuant à développer mes **compétences** et à apporter une contribution significative à des **projets stimulants**.
 
-- 🔭 Je travaille actuellement sur : **[Nom de ton projet actuel]**
-- 🌱 J'apprends en ce moment : **LLMs (Large Language Models) & MLOps**
-- 🛡️ Intérêt particulier : **Cybersécurité & IA éthique**
+- 🔭 Je travaille actuellement sur : **[Bagus Portfolio]**
+- 🌱 J'apprends en ce moment : **LLMs (Large Language Models) & MLOps & Deep | Machine Learning**
+- 🛡️ Intérêt particulier : **Cybersécurité & IA éthique & Data**
 - 💬 Pose-moi des questions sur : **React, Python, Deep Learning & Architecture Web**
 
 ---
@@ -66,9 +66,21 @@ Je suis un **Ingénieur Full Stack** passionné par l'intégration de l'**Intell
 
 | Projet | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 [Nom du Projet IA]** | Une application qui utilise le NLP pour analyser... | `Python` `TensorFlow` `FastAPI` |
-| **🛡️ [Nom Projet Cyber]** | Outil de scan de vulnérabilités web... | `Go` `Python` `Bash` |
-| **🌐 [Nom Projet Web]** | Plateforme SaaS complète pour... | `React` `Node.js` `PostgreSQL` |
+| **🤖 Blue_Attendance** | Il s’agit de réaliser une liste de présence électronique simplifié sous forme d’une application mobile en langage JAVA, afin de permettre de vérifier la présence des étudiants dans une salle de classe,à partir du Bluetooth.... | `Java` `Xml` `FastAPI` `Android Studio` |
+| **🛡️ PNP+** | Il s’agit d'étudier et de réaliser un Système Intelligent de Conception des Produits et Promotions en Angular/Spring boot. | `Angular` `Spring boot` `SQL` |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
+| **🌐 BourseFondation** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
+| **🌐 UI Calculator** | Il s’agit de réaliser une application web UI UX Design en HTML CSS. | `HTML` `CSS` `SCSS` |
+| **🌐 UI Keyboard** | Il s’agit de réaliser une application web UI UX Design en HTML CSS. | `HTML` `CSS` `SCSS` |
+| **🌐 Projet IOT** | Plateforme SaaS complète pour... | `React` `Node.js` `PostgreSQL` |
+| **🌐 ESI Website** | Il s’agit de réaliser un site web statique en Bootstrap de l'ESI (Ecole Supérieure d'Informatique). | `HTML` `CSS` `Bootstrap` |
+| **🌐 Checkers Game** | Il s’agit de réaliser un jeu de dames en mode console avec le langage C sous linux. | `C` `Linux` |
+| **🌐 Todo List** | Il s’agit de réaliser un todo-list en Laravel avec un système d’authentification et une vérification par mail. | `PHP` `Laravel` `Voyager` |
+| **🌐 Technology Transfer** | Il s’agit de réaliser une plateforme de transfert de technologies pour le partage d’informations. | `HTML` `CSS` `Bootstrap` `MySql` |
+| **🌐 Spare** | Il s’agit de réaliser une application web de suivi budgétaire (synchronisation bancaire temps réel) avec un système authentification et de facturation. | `React` `Node.js` `Firebase` |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
 
 ---
 
