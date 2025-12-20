@@ -8,9 +8,9 @@
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL-ICI)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/assami-baga)
   [![Website Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://TON-SITE.com)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TON-PROFIL)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/physic_math)
 
 </div>
 
@@ -64,23 +64,23 @@ Je suis un **Ingénieur Full Stack** passionné par l'intégration de l'**Intell
 
 ### 🏆 Projets Phares
 
-| Projet | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 Blue_Attendance** | Il s’agit de réaliser une liste de présence électronique simplifié sous forme d’une application mobile en langage JAVA, afin de permettre de vérifier la présence des étudiants dans une salle de classe,à partir du Bluetooth.... | `Java` `Xml` `FastAPI` `Android Studio` |
-| **🛡️ PNP+** | Il s’agit d'étudier et de réaliser un Système Intelligent de Conception des Produits et Promotions en Angular/Spring boot. | `Angular` `Spring boot` `SQL` |
-| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
-| **🌐 BourseFondation** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
-| **🌐 UI Calculator** | Il s’agit de réaliser une application web UI UX Design en HTML CSS. | `HTML` `CSS` `SCSS` |
-| **🌐 UI Keyboard** | Il s’agit de réaliser une application web UI UX Design en HTML CSS. | `HTML` `CSS` `SCSS` |
-| **🌐 Projet IOT** | Plateforme SaaS complète pour... | `React` `Node.js` `PostgreSQL` |
-| **🌐 ESI Website** | Il s’agit de réaliser un site web statique en Bootstrap de l'ESI (Ecole Supérieure d'Informatique). | `HTML` `CSS` `Bootstrap` |
-| **🌐 Checkers Game** | Il s’agit de réaliser un jeu de dames en mode console avec le langage C sous linux. | `C` `Linux` |
-| **🌐 Todo List** | Il s’agit de réaliser un todo-list en Laravel avec un système d’authentification et une vérification par mail. | `PHP` `Laravel` `Voyager` |
-| **🌐 Technology Transfer** | Il s’agit de réaliser une plateforme de transfert de technologies pour le partage d’informations. | `HTML` `CSS` `Bootstrap` `MySql` |
-| **🌐 Spare** | Il s’agit de réaliser une application web de suivi budgétaire (synchronisation bancaire temps réel) avec un système authentification et de facturation. | `React` `Node.js` `Firebase` |
-| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
-| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
-| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` |
+| Projet <img width=250/> | Description | Tech Stack | Lien |
+| :--- | :--- | :--- | :--- |
+| **🤖 Blue Attendance** | Il s’agit de réaliser une liste de présence électronique simplifié sous forme d’une application mobile en langage JAVA, afin de permettre de vérifier la présence des étudiants dans une salle de classe,à partir du Bluetooth.... | `Java` `Xml` `FastAPI` `Android Studio` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🛡️ PNP+** | Il s’agit d'étudier et de réaliser un Système Intelligent de Conception des Produits et Promotions en Angular/Spring boot. | `Angular` `Spring boot` `SQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 BourseFondation** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 UI Calculator** | Il s’agit de réaliser une application web UI UX Design en HTML CSS. | `HTML` `CSS` `SCSS` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 UI Keyboard** | Il s’agit de réaliser une application web UI UX Design en HTML CSS. | `HTML` `CSS` `SCSS` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Projet IOT** | Plateforme SaaS complète pour... | `React` `Node.js` `PostgreSQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 ESI Website** | Il s’agit de réaliser un site web statique en Bootstrap de l'ESI (Ecole Supérieure d'Informatique). | `HTML` `CSS` `Bootstrap` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Checkers Game** | Il s’agit de réaliser un jeu de dames en mode console avec le langage C sous linux. | `C` `Linux` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Todo List** | Il s’agit de réaliser un todo-list en Laravel avec un système d’authentification et une vérification par mail. | `PHP` `Laravel` `Voyager` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Technology Transfer** | Il s’agit de réaliser une plateforme de transfert de technologies pour le partage d’informations. | `HTML` `CSS` `Bootstrap` `MySql` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Spare** | Il s’agit de réaliser une application web de suivi budgétaire (synchronisation bancaire temps réel) avec un système authentification et de facturation. | `React` `Node.js` `Firebase` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
+| **🌐 Myspace** | Plateforme SaaS complète pour. | `React` `Node.js` `PostgreSQL` | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
 
 ---
 
