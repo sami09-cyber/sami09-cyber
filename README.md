@@ -49,7 +49,7 @@ Je suis un **Ingénieur Full Stack** passionné par l'intégration de l'**Intell
 
 ### 📊 Mes Certifications
 
-| Certificat <img width=250/> | Lien |
+| Certificat <img width=350/> | Lien |
 | :--- | :--- |
 | **🤖 C** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) | 
 | **🤖 HTML** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](VOTRE_LIEN_GOOGLE_DOC_ICI) |
